@@ -1,0 +1,53 @@
+body {
+  word-spacing: 6px;
+}
+
+header {
+  position: relative;
+  left: 1050px;
+}
+
+
+
+#right {
+  float: right;
+}
+
+#left {
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+}
+ul li{
+  display: inline;
+}
+
+#photo {
+  position: relative;
+  left: 520px;
+  bottom: 80px;
+  margin-bottom: 5px;
+}
+
+.textBox {
+  width: 580px;
+  height: 35px;
+  padding: 1px;
+}
+
+button {
+  position: relative;
+  right: 430px;
+  top: 70px;
+}
+
+footer {
+position: relative;
+top: 300px;
+}
+
+#search-area {
+  margin-top: 200px;
+}
